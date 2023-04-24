@@ -1,0 +1,8 @@
+.liveNow {
+  display: flex;
+  flex-direction: column;
+
+  [class="hide"] {
+    display: none;
+  }
+}
